@@ -6,7 +6,7 @@ import { defineConfig } from 'vite';
 export default defineConfig(() => {
   return {
     // Substitua 'nome-do-seu-repositorio' pelo nome exato do repositório no GitHub
-    base: '/nome-do-seu-repositorio/', 
+    base: '/Beneficio-dos-Engenheiros-Bine/', 
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
